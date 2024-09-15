@@ -1,0 +1,9 @@
+{
+  "name": "bipobuy-ui-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/bipobuy-ui-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["bipobuy-ui"],
+  "// targets": "to see all targets run: nx show project bipobuy-ui-e2e --web",
+  "targets": {}
+}
